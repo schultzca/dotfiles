@@ -10,3 +10,6 @@
 
 [merge]
     conflictstyle = zdiff3
+[user]
+	name = Charles Schultz
+	email = schultz.ca@gmail.com
